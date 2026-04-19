@@ -1,0 +1,14 @@
+{
+  "project_text": "项目名称：四川省城乡医疗卫生对口支援“传帮带”工程信息管理平台运维服务项目\n项目编号：0730-2421CD0455\n采购人：四川省卫生健康综合行政执法总队\n采购代理机构：中航技国际经贸发展有限公司\n包号：01\n服务周期：12个月",
+  "supplier_name": "四川星河云启信息技术有限公司",
+  "template_path": "examples/test_case_01/招标文件模板.docx",
+  "attachments": [
+    "examples/test_case_01/attachments/images/信用信息查询记录_模拟.svg",
+    "examples/test_case_01/attachments/images/法人身份证_反面_模拟.svg",
+    "examples/test_case_01/attachments/images/法人身份证_正面_模拟.svg",
+    "examples/test_case_01/attachments/images/社保证明_模拟.svg",
+    "examples/test_case_01/attachments/images/纳税证明_模拟.svg",
+    "examples/test_case_01/attachments/images/营业执照_模拟.svg",
+    "examples/test_case_01/attachments/images/财务证明_模拟.svg"
+  ]
+}

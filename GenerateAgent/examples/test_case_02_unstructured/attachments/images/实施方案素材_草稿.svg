@@ -1,0 +1,5 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1500' height='900' viewBox='0 0 1500 900'>
+<rect width='1500' height='900' fill='#ffffff'/>
+<rect x='10' y='10' width='1480' height='880' fill='none' stroke='#cbd5e1' stroke-width='2'/>
+<text x='36' y='60' font-size='30' font-family='Arial, PingFang SC, Microsoft YaHei' fill='#111827'>实施方案素材_草稿</text><text x='44' y='108' font-size='23' font-family='Arial, PingFang SC, Microsoft YaHei' fill='#1f2937'>方案素材（未经整理）：</text><text x='52' y='138' font-size='23' font-family='Arial, PingFang SC, Microsoft YaHei' fill='#1f2937'>- 运维范围：应用监控、数据库巡检、备份恢复演练、问题闭环</text><text x='37' y='168' font-size='23' font-family='Arial, PingFang SC, Microsoft YaHei' fill='#1f2937'>- 服务方式：驻场+远程，工作日常规支持，节假日值守</text><text x='41' y='198' font-size='23' font-family='Arial, PingFang SC, Microsoft YaHei' fill='#1f2937'>- SLA建议：一般问题4小时响应，严重问题2小时内到场</text><text x='47' y='228' font-size='23' font-family='Arial, PingFang SC, Microsoft YaHei' fill='#1f2937'>- 月度输出：巡检报告、问题清单、优化建议</text><text x='51' y='258' font-size='23' font-family='Arial, PingFang SC, Microsoft YaHei' fill='#1f2937'>- 风险项：接口变更、历史数据质量、权限管理</text>
+</svg>

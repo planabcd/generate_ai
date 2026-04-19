@@ -1,0 +1,12 @@
+{
+  "version": "v1.0",
+  "confidence_threshold": 0.9,
+  "format_rules": {
+    "project_no": "^[A-Za-z0-9\\-]+$",
+    "legal_id_no": "^[0-9Xx]{15,18}$",
+    "contact_email": "^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$"
+  },
+  "consistency_rules": [
+    "supplier_name must not equal legal_name"
+  ]
+}

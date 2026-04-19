@@ -1,0 +1,17 @@
+{
+  "name": "generate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fontsource/noto-sans-sc": "^5.2.9",
+    "markdown-it": "^14.1.1",
+    "pdfkit": "^0.18.0"
+  }
+}

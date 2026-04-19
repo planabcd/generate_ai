@@ -1,0 +1,29 @@
+{
+  "version": "v1.0",
+  "notes": "Placeholder format should be like {{project_name}} in template docx",
+  "placeholder_to_field": {
+    "{{project_name}}": "project_name",
+    "{{project_no}}": "project_no",
+    "{{package_no}}": "package_no",
+    "{{procurement_org}}": "procurement_org",
+    "{{agency_org}}": "agency_org",
+    "{{doc_date}}": "doc_date",
+
+    "{{supplier_name}}": "supplier_name",
+    "{{unified_social_credit_code}}": "unified_social_credit_code",
+    "{{registered_address}}": "registered_address",
+    "{{company_type}}": "company_type",
+
+    "{{legal_name}}": "legal_name",
+    "{{legal_id_no}}": "legal_id_no",
+    "{{legal_position}}": "legal_position",
+
+    "{{contact_name}}": "contact_name",
+    "{{contact_phone}}": "contact_phone",
+    "{{contact_email}}": "contact_email",
+
+    "{{technical_response_text}}": "technical_response_text",
+    "{{business_response_text}}": "business_response_text",
+    "{{implementation_plan_text}}": "implementation_plan_text"
+  }
+}

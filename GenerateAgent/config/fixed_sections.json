@@ -1,0 +1,9 @@
+{
+  "version": "v1.0",
+  "fixed_sections": [
+    "承诺函",
+    "无行贿犯罪记录承诺函",
+    "无重大违法记录承诺函"
+  ],
+  "policy": "fixed_sections_text_locked_variables_only"
+}

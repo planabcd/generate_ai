@@ -1,0 +1,11 @@
+.venv/
+node_modules/
+
+.codex
+__pycache__/
+*.pyc
+
+GenerateAgent/output/
+GenericAgent/.venv/
+
+.DS_Store

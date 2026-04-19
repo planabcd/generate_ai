@@ -1,0 +1,28 @@
+{
+  "version": "v1.0",
+  "fields": [
+    {"name": "project_name", "type": "string", "required": true, "must_review": true},
+    {"name": "project_no", "type": "string", "required": true, "must_review": true},
+    {"name": "package_no", "type": "string", "required": false, "must_review": false},
+    {"name": "procurement_org", "type": "string", "required": false, "must_review": false},
+    {"name": "agency_org", "type": "string", "required": false, "must_review": false},
+    {"name": "doc_date", "type": "string", "required": true, "must_review": false},
+
+    {"name": "supplier_name", "type": "string", "required": true, "must_review": true},
+    {"name": "unified_social_credit_code", "type": "string", "required": true, "must_review": true},
+    {"name": "registered_address", "type": "string", "required": true, "must_review": true},
+    {"name": "company_type", "type": "string", "required": false, "must_review": false},
+
+    {"name": "legal_name", "type": "string", "required": true, "must_review": true},
+    {"name": "legal_id_no", "type": "string", "required": true, "must_review": true},
+    {"name": "legal_position", "type": "string", "required": false, "must_review": false},
+
+    {"name": "contact_name", "type": "string", "required": false, "must_review": false},
+    {"name": "contact_phone", "type": "string", "required": false, "must_review": false},
+    {"name": "contact_email", "type": "string", "required": false, "must_review": false},
+
+    {"name": "technical_response_text", "type": "string", "required": false, "must_review": true},
+    {"name": "business_response_text", "type": "string", "required": false, "must_review": true},
+    {"name": "implementation_plan_text", "type": "string", "required": false, "must_review": true}
+  ]
+}

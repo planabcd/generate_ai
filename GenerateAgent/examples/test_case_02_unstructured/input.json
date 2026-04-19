@@ -1,0 +1,14 @@
+{
+  "project_text": "我们准备投一个省级医疗平台运维项目，名字里有“传帮带”字样，编号看起来像0730-2421CD0455，包号01。\n采购人是四川省卫生健康综合行政执法总队，代理机构是中航技国际经贸发展有限公司。\n文件要求里有资格性响应、承诺函、无行贿、无重大违法记录等章节。\n服务期先按12个月考虑，报价草案328600元（最终以盖章报价表为准）。",
+  "supplier_name": "四川云岚数智科技有限公司",
+  "template_path": "examples/test_case_02_unstructured/招标文件模板.docx",
+  "attachments": [
+    "examples/test_case_02_unstructured/attachments/images/用户口述记录.svg",
+    "examples/test_case_02_unstructured/attachments/images/招标公告摘录_非结构化.svg",
+    "examples/test_case_02_unstructured/attachments/images/微信聊天记录_节选.svg",
+    "examples/test_case_02_unstructured/attachments/images/扫描件OCR_营业执照_噪声.svg",
+    "examples/test_case_02_unstructured/attachments/images/扫描件OCR_身份证_噪声.svg",
+    "examples/test_case_02_unstructured/attachments/images/实施方案素材_草稿.svg"
+  ],
+  "reference_bid_docx": "AI生成的文件.docx"
+}
