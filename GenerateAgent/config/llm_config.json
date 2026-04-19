@@ -1,6 +1,6 @@
 {
-  "api_url": "https://tokenx24.com/v1/chat/completions",
-  "api_key": "sk-7a58de69f374b3a4377931305bfd0bc9879f8d8da36f0f7bc07b1d9b7a94be18",
+  "api_url": "https://api.openai.com/v1/chat/completions",
+  "api_key": "REPLACE_WITH_YOUR_API_KEY",
   "model": "gpt-5.4",
   "temperature": 0.2,
   "timeout_sec": 60

@@ -59,6 +59,10 @@ Set one of the following:
 - `temperature`
 - `timeout_sec`
 
+Security note:
+- Do not commit real API keys/tokens into git.
+- Prefer environment variables in CI/production.
+
 2. Environment variables (override file config):
 - `LLM_API_URL`
 - `LLM_API_KEY`
